@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0" is_locked="false">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HTML" level="WARNING" enabled="true">
+      <option name="myAdditionalHtmlTags" value="embed,nobr,noembed,comment,script" />
+      <option name="myAdditionalHtmlAttributes" value="type,wmode,src,width,height,border" />
+      <option name="myCheckHtmlTags" value="true" />
+      <option name="myCheckHtmlAttributes" value="true" />
+    </inspection_tool>
+    <inspection_tool class="RequiredAttributes" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myAdditionalRequiredHtmlAttributes" value="type" />
+    </inspection_tool>
+  </profile>
+</component>
